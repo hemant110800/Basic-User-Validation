@@ -1,0 +1,14 @@
+.user_display{
+    background-color: #fff;
+    padding: 1rem;
+    margin: auto;
+    width: 50%;
+}
+.user_list{
+    list-style: none;
+    padding: 0px;
+    row-gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
